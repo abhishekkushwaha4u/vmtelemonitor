@@ -9,7 +9,7 @@ future==0.18.2
 idna==2.9
 kiwisolver==1.2.0
 matplotlib==3.2.1
-numpy==1.18.2
+numpy==1.22.0
 paramiko==2.7.1
 pyasn1==0.4.8
 pycparser==2.20
